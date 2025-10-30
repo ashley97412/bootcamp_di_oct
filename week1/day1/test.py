@@ -1,0 +1,8 @@
+name = input("Enter your name: ")
+hobby = input("Enter your hobby: ")
+favorite_color = input("Enter your favorite color: ")
+favorite_food = input("Enter your favorite food: ")
+print("Name:", name)
+print("Hobby:", hobby)
+print("Favorite Color:", favorite_color)
+print("Favorite Food:", favorite_food)
